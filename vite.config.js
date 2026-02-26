@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
 
   plugins: [react()],
-  base: '/Tema4_MK/',   // <--- CAMBIA '/Kairos/' POR './'
+  base: '/Tema4_MKimproved/',   // <--- CAMBIA '/Kairos/' POR './'
 })
